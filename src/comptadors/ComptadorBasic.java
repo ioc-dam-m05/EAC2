@@ -44,5 +44,11 @@ public class ComptadorBasic {
 		this.compte++;
 	}
 	
+	/**
+	 * decrementa en una unitat el comptador
+	 */
+	public void decrementa(){
+		this.compte--;
+	}
 
 }
